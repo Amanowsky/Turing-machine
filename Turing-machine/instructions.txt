@@ -1,0 +1,17 @@
+s,a,q0,_,R
+s,b,p,_,R
+s,_,yes,_,-
+q0,a,q0,a,R
+q0,b,q0,b,R
+q0,_,q1,_,L
+p,a,p,a,R
+p,b,p,b,R
+p,_,q0`,_,L
+q1,a,q1`,_,L
+q0`,b,q,_,L
+q1`,a,q1`,a,L
+q1`,b,q1`,b,L
+q1`,_,s,_,R
+q,a,q,a,L
+q,b,q,b,L
+q,_,s,_,R
